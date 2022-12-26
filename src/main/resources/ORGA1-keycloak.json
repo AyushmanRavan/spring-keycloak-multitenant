@@ -1,0 +1,8 @@
+{
+    "realm": "ORGA1",
+    "bearer-only": true,
+    "auth-server-url": "http://localhost:8080/auth/",
+    "ssl-required": "external",
+    "resource": "ORGA1-api",
+    "confidential-port": 0
+}
